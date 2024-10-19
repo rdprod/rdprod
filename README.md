@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Roma!</h1>
+<h3 align="center">A backend developer</h3>
+<p align="center">
+  <img style="vertical-align:middle" src="https://github.com/user-attachments/assets/ae4f0fee-6650-4a0d-9a6a-3ea7a516b2e5" width="100" height="143,5">
+</p>
 
 <!--
 **rdprod/rdprod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
